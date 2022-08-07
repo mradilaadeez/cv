@@ -41,6 +41,7 @@ body {
     ul {
       text-align: center;
       list-style-position: inside;
+      font-size: 15px;
     }
     ol {
       text-align: center;
